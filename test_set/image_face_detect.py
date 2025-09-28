@@ -1,4 +1,6 @@
 import cv2
+import numpy as np
+from PIL import Image
 
 face_detector = cv2.CascadeClassifier(
     cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
@@ -6,6 +8,9 @@ face_detector = cv2.CascadeClassifier(
 
 imagePath = 'pictures/visage.jpeg'
 imageRead = cv2.imread(imagePath)
+imagePath_PIL = Image.open(imagePath).convert('L')
+image_array = np.array(imagePath_PIL)
+print(image_array)
 if imageRead is None:
     print("Erreur : impossible de lire l'image ! Vérifie le chemin.")
     exit()

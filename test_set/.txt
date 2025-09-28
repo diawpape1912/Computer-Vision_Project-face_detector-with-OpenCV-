@@ -1,0 +1,8 @@
+Ce sont des programmes de test que j’ai réalisés et que je n’ai pas 
+voulu supprimer, afin de simuler différentes situations avec les 
+bibliothèques que nous avons déjà utilisées ou que nous utiliserons 
+plus tard. Ils me permettent de mieux comprendre le fonctionnement des 
+outils, d’anticiper certains problèmes possibles et de garder une base 
+de référence pour mes futurs projets.
+
+Vous pouvez les utiliser pour mieux comprendre le projet principal!!

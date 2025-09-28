@@ -1,0 +1,48 @@
+                                ░█▀▀█ ░█▀▀▀█ ░█▀▀▀ ░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ░█▀▀▀█ ░█▀▀▀ 
+                                ░█─── ░█──░█ ░█▀▀▀ ░█▀▀▄ ░█──░█ ─░█── ░█──░█ ░█▀▀▀
+                                ░█▄▄█ ░█▄▄▄█ ░█▄▄▄ ░█▄▄█ ░█▄▄▄█ ─░█── ░█▄▄▄█ ░█▄▄▄ 
+
+                                                        //\\
+                                                      <--><-->
+                                                    <--><--><-->
+                                                  <--><--><--><-->
+                                                <--><--><--><--><-->
+                                              <--><--><--><--><--><-->
+                                           <--><-->COMPUTER-VISION<--><-->
+                                              <--><--><--><--><--><-->
+                                                <--><--><--><--><-->
+                                                  <--><--><--><-->
+                                                    <--><--><-->
+                                                      <--><-->
+                                                        \\//
+
+
+                                    ───────────────────────────────────────────────
+                                                Projet réalisé par :
+                                                    Pape Moussé Diaw
+                                    ───────────────────────────────────────────────
+                                           
+                                                    
+
+Ce projet est un concept d’apprentissage en vision par ordinateur, visant à renforcer
+et solidifier mes connaissances dans ce domaine. Pour sa réalisation, j’ai choisi Python, 
+un langage puissant et largement reconnu pour ce type de projets grâce à son écosystème
+riche en bibliothèques spécialisées. La première étape consiste à dresser la liste des 
+bibliothèques nécessaires et à expliquer brièvement leur rôle :
+
+
+-> OpenCV2 : traitement d’images et de vidéos (détection, segmentation, filtres, etc.).
+-> Mediapipe : solutions avancées de détection en temps réel (visage, mains, pose, objets).
+-> Matplotlib : visualisation des résultats et représentation graphique des données.
+-> Imageio : lecture et écriture d’images/vidéos dans différents formats.
+-> Torch (PyTorch) : frameworks d’apprentissage profond pour la vision et l’IA.
+-> NumPy : manipulation efficace des tableaux et calculs numériques rapides.
+-> Time : gestion du temps et des délais dans l’exécution des programmes.
+-> Pillow (PIL) : traitement et manipulation d’images simples.
+-> MoviePy : montage et traitement de vidéos en Python.
+
+Bien que certaines bibliothèques aient été conçues pour des usages spécifiques, leur
+combinaison permet de créer des projets plus complets et d’expérimenter différentes 
+approches de la vision par ordinateur. L’objectif de ce projet est donc non seulement
+de comprendre l’utilité de chaque outil, mais aussi de les mettre en pratique à travers 
+des cas concrets (détection faciale, suivi d’objets, traitement vidéo, etc.).
