@@ -32,13 +32,13 @@ Objectifs :
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/ton-utilisateur/computer-vision.git
+git clone https://github.com/diawpape1912/Computer-Vision_Project-face_detector-with-OpenCV-.git
 ```
 
 2. Entrer dans le dossier :
 
 ```bash
-cd computer-vision
+cd computer-Vision(OpenCV)
 ```
 
 3. Installer les dépendances :
