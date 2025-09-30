@@ -1,5 +1,5 @@
 import cv2
-from image_drawing import image_PIL_convert
+from main.image_drawing import image_PIL_convert
 import numpy as np
 
 

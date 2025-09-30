@@ -1,6 +1,6 @@
-from face_detector_display import detect_green_box
-from image_drawing import image_PIL_convert
-from webcam_loop import webcamLoop
+from main.face_detector_display import detect_green_box
+from main.image_drawing import image_PIL_convert
+from main.webcam_loop import webcamLoop
 import cv2
 
 
