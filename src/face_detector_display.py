@@ -3,7 +3,6 @@ import cv2
 
 
 
-
 #Chargement du classificateur en cascade pour la détection de visage
 face_detector = cv2.CascadeClassifier(
     cv2.data.haarcascades + "haarcascade_frontalface_default.xml"

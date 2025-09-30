@@ -1,5 +1,5 @@
 import cv2
-
+from face_resizer_display import resizing_frame
 
 face_classifier = cv2.CascadeClassifier(
     cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
@@ -40,6 +40,8 @@ while True:
 
     if cv2.waitKey(1) & 0xFF == ord("q"):
         break
+
+resizing_frame(video_frame)
 
 video_capture.release()
 cv2.destroyAllWindows()
